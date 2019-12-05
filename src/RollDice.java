@@ -27,15 +27,4 @@ public class RollDice {
             System.out.printf("%6d%10d\n",rating,frequency[rating]);
         }
     }
-
-    public static void rollDice() {
-        SecureRandom rollDice = new SecureRandom();
-        int i = 0;
-        long diceRoll;
-        while (i < ROLLING_TIMES) {
-            diceRoll = 1 + rollDice.nextInt(6);
-            System.out.printf("%d ", diceRoll);
-            i++;
-        }
-    }
 }
