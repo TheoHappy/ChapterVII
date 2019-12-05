@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d463e6bc-f7b4-4fb7-a109-26ab4e874bc6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChapterVII/Craps$Status.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChapterVII/Craps$Status.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ChapterVII/Craps.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChapterVII/Craps.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ChapterVII/UsingTheEnhancedForStatement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChapterVII/UsingTheEnhancedForStatement.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Craps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Craps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UsingTheEnhancedForStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UsingTheEnhancedForStatement.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
