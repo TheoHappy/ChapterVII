@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d463e6bc-f7b4-4fb7-a109-26ab4e874bc6" name="Default Changelist" comment="" />
+    <list default="true" id="d463e6bc-f7b4-4fb7-a109-26ab4e874bc6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChapterVII/Craps$Status.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChapterVII/Craps$Status.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChapterVII/Craps.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChapterVII/Craps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ChapterVII/UsingTheEnhancedForStatement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ChapterVII/UsingTheEnhancedForStatement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Craps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Craps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UsingTheEnhancedForStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UsingTheEnhancedForStatement.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +23,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UVfkCtcjJFOS28r24bixZL3JFR" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -40,6 +54,7 @@
     <configuration name="Craps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Craps" />
       <module name="ChapterVII" />
+      <option name="PROGRAM_PARAMETERS" value="1 2 3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -61,7 +76,7 @@
     <configuration name="UsingTheEnhancedForStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="UsingTheEnhancedForStatement" />
       <module name="ChapterVII" />
-      <option name="PROGRAM_PARAMETERS" value="9 3" />
+      <option name="PROGRAM_PARAMETERS" value="9.3 12.3 89.5" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -76,9 +91,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Craps" />
+        <item itemvalue="Application.UsingTheEnhancedForStatement" />
         <item itemvalue="Application.RollDice" />
         <item itemvalue="Application.CommandLineArguments" />
-        <item itemvalue="Application.UsingTheEnhancedForStatement" />
         <item itemvalue="Application.DuplicateElimination" />
       </list>
     </recent_temporary>
@@ -95,5 +110,18 @@
       <updated>1575446823043</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

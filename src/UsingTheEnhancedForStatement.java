@@ -1,9 +1,16 @@
 public class UsingTheEnhancedForStatement {
     public static void main(String[] args) {
-        double a = Double.parseDouble(args[0]);
-        double b = Double.parseDouble(args[1]);
 
-        System.out.printf("Sum of %.2f and %.2f is %.2f",a,b,a+b);
+        double suma = 0;
+        for (int i = 0; i < args.length; i++)
+            suma +=  sum(Double.parseDouble(args[i]));
+
+        System.out.println("Sum is " + suma);
     }
-
+    public static double sum(double... a) {
+        double sum = 0;
+        for (double i : a)
+            sum = sum + i;
+        return sum;
+    }
 }
